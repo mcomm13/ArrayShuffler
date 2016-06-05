@@ -1,4 +1,4 @@
-# arrayShuffler
+# ArrayShuffler
 
 An algorithm that takes in an array of values and returns a randomly shuffled version of that array.
 
