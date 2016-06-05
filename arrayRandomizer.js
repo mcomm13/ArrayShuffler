@@ -43,5 +43,5 @@ function RandomizeArray() {
     
     DisplayArray(randomizedArray, 'randomizedArrayDiv');  //Once the new shuffled array is completely built, display it on the web page
     
-    originalArray = copyOfOriginalArray.slice(); //In case you want to re-sort it, you need to restore the originalArray back to its initial form
+    originalArray = copyOfOriginalArray.slice(); //In case you want to re-shuffle it, you need to restore the originalArray back to its initial form
 }
