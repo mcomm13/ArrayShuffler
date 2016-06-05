@@ -1,0 +1,22 @@
+.array-shuffler-demo-array-section {
+    padding: 20px;
+    border: 1px solid black;
+    min-height: 120px;
+    width: 300px;
+    background-color: white;
+}
+
+.array-shuffler-demo-button-section {
+    margin: 20px 90px;
+}
+
+button {
+    height: 50px;
+    width: 150px;
+    background-color: royalblue;
+    font-size: 12pt;
+}
+
+body {
+    background-color: whitesmoke;
+}
