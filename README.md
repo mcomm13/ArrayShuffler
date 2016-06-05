@@ -1,4 +1,5 @@
-# arrayRandomizer
+# arrayShuffler
+
 An algorithm that takes in an array of values and returns a randomly sorted version of that array.  Basically, it shuffles the array.
 
 This can be applied to games or "pick a number from a hat" scenarios (ex. picking raffle tickets or picking draft order in fantasy football).
